@@ -2,6 +2,10 @@
 
 ***
 
+#### Please visit this [`link`](https://github.com/muhamed-hassan/safe_planet/wiki/Jokes-in-the-profession-of-JavaScript%E2%80%90web_frontend%E2%80%90development) for jokes 🤣
+
+***
+
 **`Difficulty Level`**: [Research and development center](https://en.wikipedia.org/wiki/Research_and_development) over the planet 🌏 🌎 🌍.
 
 ***
